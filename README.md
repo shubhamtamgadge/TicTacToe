@@ -1,1 +1,1 @@
- TicTacToe game which you can play on your cmd.
+ Creatd a console-based TicTacToe game using core java.
